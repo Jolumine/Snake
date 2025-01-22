@@ -2,7 +2,7 @@
 
 This is a version of the old-school game SNAKE, made with Java and the framework named <b>EngineAlpha</b>. <br>
 It has been done as a project in a CS Class in a german highschool. <br>
-The snake is getting random RGB values, so it's getting a <b>large rainbow</b>.
+The snake is getting random RGB values, so it's becoming a <b>large rainbow</b>.
 
 <br>
 
